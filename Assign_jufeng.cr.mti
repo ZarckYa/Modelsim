@@ -1,0 +1,55 @@
+{G:/Modelsim Project/Assignment-2.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Assignment-2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Assignment2
+-- Compiling module Assignment_ju
+
+Top level modules:
+	Assignment_ju
+
+} {} {}} {G:/Modelsim Project/SSS.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/SSS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module design2
+-- Compiling module A1
+
+Top level modules:
+	A1
+
+} {} {}} {G:/Modelsim Project/Assi_jufeng.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Assi_jufeng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_8bits
+-- Compiling module Register_16bits
+-- Compiling module Counter
+-- Compiling module Adder_Reg_Sim
+-- Compiling module Adder_Reg_Com
+-- Compiling module Muti_Reg
+-- Compiling module Final_Combine
+-- Compiling module Assi_jufeng
+
+Top level modules:
+	Assi_jufeng
+
+} {} {}} {G:/Modelsim Project/Laoya.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Laoya.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module design2
+-- Compiling module A
+
+Top level modules:
+	A
+
+} {} {}} {G:/Modelsim Project/Jufeng.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Jufeng.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module design2
+-- Compiling module A
+
+Top level modules:
+	A
+
+} {} {}} {G:/Modelsim Project/Assignment2.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Assignment2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Assignment2
+-- Compiling module Assignment_jufeng
+
+Top level modules:
+	Assignment_jufeng
+
+} {} {}}

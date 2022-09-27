@@ -1,0 +1,13 @@
+{G:/Modelsim Project/Assi_Jufeng_Yang.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Assi_Jufeng_Yang.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sbox
+-- Compiling module Key_Adjust
+-- Compiling module Key_Combine
+-- Compiling module SPN
+-- Compiling module Encryption
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}}

@@ -1,0 +1,42 @@
+{G:/Modelsim Project/Lab_part3.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab_part3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Lab4_part3
+
+Top level modules:
+	Lab4_part3
+
+} {} {}} {G:/Modelsim Project/Lab4_part1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab4_part1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab4_part1
+
+Top level modules:
+	lab4_part1
+
+} {} {}} {G:/Modelsim Project/Lab4_part5.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab4_part5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_gates
+-- Compiling module adder_3bits
+-- Compiling module Muti
+-- Compiling module Compara
+-- Compiling module Lab4_part5
+
+Top level modules:
+	Lab4_part5
+
+} {} {}} {G:/Modelsim Project/Lab4_part6.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab4_part6.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_5bits
+-- Compiling module way4_sel
+-- Compiling module Lab4_part6
+
+Top level modules:
+	Lab4_part6
+
+} {} {}} {G:/Modelsim Project/Lab_part2.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab_part2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab4_part2
+
+Top level modules:
+	lab4_part2
+
+} {} {}}

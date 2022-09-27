@@ -1,0 +1,71 @@
+{G:/Modelsim Project/4bits_Adder_Test.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/4bits_Adder_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bits_Adder_Test
+
+Top level modules:
+	bits_Adder_Test
+
+} {} {}} {G:/Modelsim Project/Multiplexor.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Multiplexor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_gates
+
+Top level modules:
+	multi_gates
+
+} {} {}} {G:/Modelsim Project/4bits_Adder.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/4bits_Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bits_adder
+
+Top level modules:
+	bits_adder
+
+} {} {}} {G:/Modelsim Project/Full_Adder_Test.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Full_Adder_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FAdder_Test
+
+Top level modules:
+	FAdder_Test
+
+} {} {}} {G:/Modelsim Project/MultiplexorTest.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/MultiplexorTest.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multi_Test
+
+Top level modules:
+	Multi_Test
+
+} {} {}} {G:/Modelsim Project/Full_Adder.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Full_Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FAdder
+
+Top level modules:
+	FAdder
+
+} {} {}} {G:/Modelsim Project/Half_Adder.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Half_Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HAdder
+
+Top level modules:
+	HAdder
+
+} {} {}} {G:/Modelsim Project/Multi_3bits_Test.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Multi_3bits_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_3bits_Test
+
+Top level modules:
+	multi_3bits_Test
+
+} {} {}} {G:/Modelsim Project/Test_S.v} {1 {vlog -work work -stats=none {G:\Modelsim Project\Test_S.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_signed
+
+Top level modules:
+	test_signed
+
+} {} {}} {G:/Modelsim Project/Multi_3bits.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/multi_3bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_3bits
+
+Top level modules:
+	multi_3bits
+
+} {} {}}

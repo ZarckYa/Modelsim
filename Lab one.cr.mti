@@ -1,0 +1,64 @@
+{G:/Modelsim Project/3in ortestbench 1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/3in ortestbench 1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_or
+
+Top level modules:
+	testbench_or
+
+} {} {}} {G:/Modelsim Project/Andgate.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Andgate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} {G:/Modelsim Project/TestLab1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/TestLab1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Test_Lab1
+
+Top level modules:
+	Test_Lab1
+
+} {} {}} {G:/Modelsim Project/Andtestbench 2.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Andtestbench 2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_and
+
+Top level modules:
+	testbench_and
+
+} {} {}} {G:/Modelsim Project/Lab1 Task6.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab1 Task6.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module func
+
+Top level modules:
+	func
+
+} {} {}} {G:/Modelsim Project/Andtestbench 3.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Andtestbench 3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_and
+
+Top level modules:
+	testbench_and
+
+} {} {}} {G:/Modelsim Project/Andtestbench.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Andtestbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_and
+
+Top level modules:
+	testbench_and
+
+} {} {}} {G:/Modelsim Project/3 inputs gate.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/3 inputs gate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module or3
+
+Top level modules:
+	or3
+
+} {} {}} {G:/Modelsim Project/3in ortestbench.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/3in ortestbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_or
+
+Top level modules:
+	testbench_or
+
+} {} {}}

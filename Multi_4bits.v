@@ -1,0 +1,8 @@
+module multi_4bits(input [3:0] a, b, input sel, output [3:0] c);
+
+multi_gates m1(.a(a[0]), .b(b[0]), .c(c[0]), .select(sel));
+multi_gates m2(.a(a[1]), .b(b[1]), .c(c[1]), .select(sel));
+multi_gates m3(.a(a[2]), .b(b[2]), .c(c[2]), .select(sel));
+multi_gates m4(.a(a[3]), .b(b[3]), .c(c[3]), .select(sel));
+
+endmodule

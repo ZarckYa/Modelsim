@@ -1,0 +1,57 @@
+{G:/Modelsim Project/Lab5_part2.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab5_part2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_32bits
+-- Compiling module adder_32bits
+-- Compiling module Lab_part2
+
+Top level modules:
+	multi_32bits
+	Lab_part2
+
+} {} {}} {G:/Modelsim Project/Lab5_part3-2.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab5_part3-2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nonblockingexample
+
+Top level modules:
+	nonblockingexample
+
+} {} {}} {G:/Modelsim Project/Lab5_part6-1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab5_part6-1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_8bits
+-- Compiling module adder_8bits
+-- Compiling module Lab5_part6
+
+Top level modules:
+	Lab5_part6
+
+} {} {}} {G:/Modelsim Project/Lab5_part4.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab5_part4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flipflop
+-- Compiling module Lab5_part4
+
+Top level modules:
+	Lab5_part4
+
+} {} {}} {G:/Modelsim Project/Lab5_part3-1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab5_part3-1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module blockingexample
+
+Top level modules:
+	blockingexample
+
+} {} {}} {G:/Modelsim Project/Lab5_part1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Lab5_part1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Lab5_part1
+
+Top level modules:
+	Lab5_part1
+
+} {} {}} {G:/Modelsim Project/Test111.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Test111.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hardreg
+-- Compiling module hardreg_tb
+
+Top level modules:
+	hardreg_tb
+
+} {} {}}

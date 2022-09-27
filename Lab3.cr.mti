@@ -1,0 +1,43 @@
+{G:/Modelsim Project/Multi_4bits.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Multi_4bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_4bits
+
+Top level modules:
+	multi_4bits
+
+} {} {}} {G:/Modelsim Project/Delay1.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Delay1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_gate_delay
+
+Top level modules:
+	multi_gate_delay
+
+} {} {}} {E:/Limerick course year 3/Microcomputer Systems/EE4523/Labs/Lab3/Lab3_test_selector8way.v} {1 {vlog -work work -stats=none {E:/Limerick course year 3/Microcomputer Systems/EE4523/Labs/Lab3/Lab3_test_selector8way.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_selector8way
+
+Top level modules:
+	test_selector8way
+
+} {} {}} {G:/Modelsim Project/Multiplexor.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Multiplexor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multi_gates
+
+Top level modules:
+	multi_gates
+
+} {} {}} {G:/Modelsim Project/Delay_Test.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/Delay_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Delay_Test
+
+Top level modules:
+	Delay_Test
+
+} {} {}} {G:/Modelsim Project/8_way_select.v} {1 {vlog -work work -stats=none {G:/Modelsim Project/8_way_select.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module selector8way
+
+Top level modules:
+	selector8way
+
+} {} {}}
